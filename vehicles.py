@@ -1,3 +1,10 @@
+"""
+vehicle.py
+Michael Barthauer
+11/14/2022
+Requests and stores information describing a car.
+"""
+
 class Vehicle():
 
     def __init__(self, type):
